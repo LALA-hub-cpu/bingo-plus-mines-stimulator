@@ -1,0 +1,1 @@
+# bingo-plus-mines-stimulator
